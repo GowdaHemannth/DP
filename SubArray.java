@@ -1,4 +1,5 @@
 public class SubArray {
+    // Brute force maximum sum of the non adjcent Elements 
     public static void main(String[] args) {
         int arr[]={2,1,4,9};
         int sum=0;

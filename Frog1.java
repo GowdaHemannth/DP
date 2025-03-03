@@ -1,4 +1,5 @@
 import java.util.Arrays;
+// DP Type Memoization
 
 public class Frog1{
     
