@@ -1,4 +1,5 @@
 public class SubArray1 {
+    // Solution DP in Notes 
     public static int Recursion(int nums[],int n){
         if(n==0){
             return nums[n];
