@@ -1,4 +1,5 @@
 public class Ninja {
+    // Ninja Training Numerical
 
     public static int Recurence(int n,int last,int arr[][]){
         if(n==0){
