@@ -1,4 +1,5 @@
 public class SubSet {
+    // Used To Find Whether the Given Sum Of Subset Present or Not
     public static boolean Function(int index,int arr[],int target){
         if(target==0){
             return true;
