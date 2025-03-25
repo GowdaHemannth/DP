@@ -4,12 +4,12 @@ public class Matrix {
             return 0;
         }
         int Min=Integer.MAX_VALUE;
-      for(int k=i;k<=j-2;k++){
+      for(int k=i;k<=j-1;k++){
       int ans=(arr[i-1]*arr[k]*arr[j])+MatrixChainMultiplication(arr, i, k)+MatrixChainMultiplication(arr, k+1, j);
       Min=Math.min(ans, Min);
       }
   return Min;
-    }
+    } 
         
     
     public static void main(String[] args) {
