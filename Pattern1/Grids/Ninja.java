@@ -1,3 +1,4 @@
+package Pattern1.Grids;
 public class Ninja {
     // Ninja Training Numerical
 

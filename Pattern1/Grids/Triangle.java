@@ -1,3 +1,4 @@
+package Pattern1.Grids;
 public class Triangle {
     public static int Function(int i,int j,int triangle[][],int n){
         if(i==n){
