@@ -1,0 +1,4 @@
+here in knapsack kind of pattern either you can take the element or you can not take the element 
+these may include the subset array numericals 
+and sum of subset array numericals and then difference between elemnts numericals 
+When you see numericals defing the subsets or Any array related numericals you can actually take that part 
