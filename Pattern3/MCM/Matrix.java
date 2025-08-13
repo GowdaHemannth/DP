@@ -1,5 +1,8 @@
+
 public class Matrix {
     public static int MatrixChainMultiplication(int arr[],int i,int j){
+        // These MCM Pattern Numericals Having Same Pattern 
+        // But the Important Cache here is choosing i value,K value,j Value 
         if(i>=j){
             return 0;
         }

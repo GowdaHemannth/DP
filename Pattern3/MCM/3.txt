@@ -1,0 +1,22 @@
+Here identifying the Pattern is Easy but Analysis what will be the i value then analysising waht will be the j 
+
+value then how much k should Move Taht becomes Diffult 
+
+Here we have 6-7 Numericalss Practice Them Correctly You will get to know the What is Real Numericals 
+
+Palindrome Partition 
+
+      // These MCM Pattern Numericals Having Same Pattern 
+        // But the Important Cache here is choosing i value,K value,j Value 
+        if(i>=j){
+            return 0;
+        }
+        int Min=Integer.MAX_VALUE;
+      for(int k=i;k<=j-1;k++){
+      int ans=(arr[i-1]*arr[k]*arr[j])+MatrixChainMultiplication(arr, i, k)+MatrixChainMultiplication(arr, k+1, j);
+      Min=Math.min(ans, Min);
+      }
+  return Min;
+     
+
+     THese WILL BE THE BASIC FORMAT CODE FOR THESE NUMERICAL 
