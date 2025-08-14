@@ -1,0 +1,13 @@
+here in Stocks Pattern in Dp I would Say thee are only 6 varients Availble Here 
+
+So 1st one Would be simple Buy once And sell Once Theory
+
+2.Buy and Sell As Many Times You need and sell whenever you need 
+
+3. Here ou will given 2 transaction Per Stock add one more Varible Cap in Function reduce it When you Sell it 
+
+4. Here you will be given K transaction , Difference Between these Numerical and Previous Numerical is There its a Fixed Stay 
+
+5.Hee You need to Think of cool Perod Where you can noy buy next day after selling So add i+2 Problem solved
+
+6. Here You need to Reduce the Fee when you Sell Particular Ting On a day

@@ -1,4 +1,4 @@
-package Pattern3;
+
 
 import java.util.function.Function;
 
