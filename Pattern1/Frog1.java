@@ -1,3 +1,4 @@
+package Pattern1;
 import java.util.Arrays;
 // DP Type Memoization
 
