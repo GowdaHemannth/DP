@@ -22,7 +22,12 @@ public class IncreaseString {
     public static int Function(List<String>Words){
 
         int n=Words.size();
+        
+
+     // Most important Step in teh Whole Thing 
         Words.sort(comp);
+
+
         int dp[]=new int[n];
         Arrays.fill(dp,1);
         int maxi=1;
