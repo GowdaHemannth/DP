@@ -9,7 +9,7 @@ public class ParcticeTabulation {
             for (int j = 0; j < W + 1; j++) {
                 if (i == 0 || j == 0) {
                     DP[i][j] = 0;
-
+                
                 }
             }
         }
