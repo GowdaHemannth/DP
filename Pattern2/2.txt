@@ -2,3 +2,14 @@ here in knapsack kind of pattern either you can take the element or you can not 
 these may include the subset array numericals 
 and sum of subset array numericals and then difference between elemnts numericals 
 When you see numericals defing the subsets or Any array related numericals you can actually take that part 
+
+These Numericals From  Adthiya Verma 
+
+
+Rules for Top Down 
+
+1) If Array has size of n and m then declare array as n+1 and m+1 
+2) we will be storing it in These Way Becuase At The End we need to Return array[n][m]
+if we initialize these has n and m then we can store till n-1 and m-1 
+3) Change the Recursive Calls into Iterative Things 
+

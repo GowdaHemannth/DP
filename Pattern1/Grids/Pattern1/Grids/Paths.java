@@ -1,4 +1,4 @@
-package Pattern1.Grids;
+
 public class Paths{
     public static int Paths(int i,int j){
         if(i==0&&j==0){

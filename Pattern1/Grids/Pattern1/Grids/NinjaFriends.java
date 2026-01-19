@@ -1,4 +1,4 @@
-package Pattern1.Grids;
+
 public class NinjaFriends {
     public static int Function(int i,int j1,int j2,int matrix[][],int n,int m){
         // Base Case Or Out of Bound Case 

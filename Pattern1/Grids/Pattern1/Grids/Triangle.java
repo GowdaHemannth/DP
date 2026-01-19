@@ -1,4 +1,4 @@
-package Pattern1.Grids;
+
 public class Triangle {
     // Here The Uniquness Of these Numerical is That 
     // You will Not Be Having the Mixed Ending Point like Previous Grids Numericals 
@@ -9,6 +9,7 @@ public class Triangle {
         //Here there is No need To Worry About the J Going Out of Bound Because 
         // Since it is a Triangle It will never go out of Bound 
         // Either it will GO Down Or Diagonal Or Down Right ;
+        // Here Once you Reach the Final Row Stop and Return 
         if(i==n){
             return triangle[n][j];
         }

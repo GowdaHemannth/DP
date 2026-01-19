@@ -1,4 +1,4 @@
-package Pattern1.Grids;
+
 
 public class GridUniquePath {
     public static int tWoDUniquePaths(int i,int j,int nums[][]){
