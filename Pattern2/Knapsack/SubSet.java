@@ -9,7 +9,7 @@ public class SubSet {
         }
         boolean Take=false;
         if(arr[index]<=target){
-            Take=Function(index-1, arr, target-arr[index]);
+           Take=Function(index-1, arr, target-arr[index]);
 
         }
         boolean NotTake=Function(index-1, arr, target);

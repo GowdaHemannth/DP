@@ -1,4 +1,4 @@
-package PATTERN2DGRID;
+package PATTERNTWODGRID;
 
 public class NinjaTraining {
     public static int Function(int arr[][], int Row, int Last) {
